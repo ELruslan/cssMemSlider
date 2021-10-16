@@ -24,9 +24,8 @@
     .slider input[name="switch"] {
       display: none;
     }
-
-     
-  .switch {
+    
+    .switch {
     display: inline-flex;
     align-items: center;
   }
