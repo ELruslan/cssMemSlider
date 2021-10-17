@@ -61,15 +61,11 @@
       border: 2px solid white;
   
     }
-    .switch .btn:hover::before{
-      content:'';
-      display:block;
-      width: 2em;
-      height: 2em;
-      border: 2em solid transparent;
+    span {
+      display: block;
+      border: 1em solid transparent;
       background: transparent;
-  
-    }
+  }
     .switch .btn:active{
       border: 2px solid white;
     }
